@@ -66,7 +66,7 @@ My work bridges **Machine Learning**, **Deep Learning**, and **AI research** thr
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-KartikSaroop-blue?logo=linkedin" /></a>
+ 
   <a href="https://github.com/KartikSaroop-AI"><img src="https://img.shields.io/badge/GitHub-KartikSaroop--AI-lightgrey?logo=github" /></a>
 </p>
 
