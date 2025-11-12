@@ -59,7 +59,7 @@
 
 <td align="center" width="50%">
   <a href="https://github.com/KartikSaroop-AI/DailyEpoch">
-    <img src="https://github.com/KartikSaroop-AI/DailyEpoch/blob/main/dailyepoch.png.png" width="90%">
+    <img src="https://github.com/KartikSaroop-AI/DailyEpoch/blob/main/daily.png.png" width="90%">
   </a>
   <br><b>📓 <a href="https://github.com/KartikSaroop-AI/DailyEpoch">DailyEpoch</a></b><br>
   <i>Daily Learning & Research Log</i> — tracking notes, experiments, and progress.
