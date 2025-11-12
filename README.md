@@ -1,11 +1,29 @@
+<h1 align="center" style="
+  font-family: 'Segoe UI', 'Inter', 'Roboto', sans-serif;
+  font-size: 42px;
+  background: linear-gradient(90deg, #00BFFF, #7DF9FF, #00FFFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-shadow: 0 0 12px rgba(0, 255, 255, 0.25);
+">
+👋 Hi, I'm <b>Kartik Saroop</b>
+</h1>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Kartik Saroop</span></h1>
-<p align="center">
-🎓 <i>AI Research Enthusiast | Deep Learning Explorer | Self-Learning Scientist</i>  
-📍 Canada  
-<br>
+<p align="center" style="
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  color: #B0C4DE;
+">
+🎓 Aspiring AI Researcher · Machine Learning & Deep Learning Enthusiast <br>
+📍 Canada <br>
 <em>Decoding Intelligence — One Epoch at a Time</em>
 </p>
+
+
+
+
 
 ---
 
@@ -95,33 +113,28 @@
 
 ## 🎯 Academic & Research Goals
 
-<table align="center" width="90%">
-<tr>
-<td width="50%" valign="top">
+My long-term pursuit is to explore **theoretical and practical dimensions of Artificial Intelligence** — from the mathematical frameworks that define learning to the real-world systems that apply it.  
 
-**📘 Learning Focus**
-- Machine Learning & Generative AI  
-- Computer Vision & Multimodal Models  
-- Mathematical Modeling & Optimization  
+**Current Focus Areas:**
+- Developing interpretable and optimized **neural architectures**
+- Understanding **representation learning** and **transferability**
+- Experimenting with **Vision–Language models**, **diffusion systems**, and **self-supervised learning**
+- Promoting **open, reproducible research** through structured experimentation and transparent documentation  
 
-</td>
-<td width="50%" valign="top">
-
-**🔬 Research Goals**
-- Build efficient, interpretable neural systems  
-- Explore visual-language understanding  
-- Promote reproducible open AI research  
-
-</td>
-</tr>
-</table>
+> *“AI is not built—it is discovered, layer by layer, neuron by neuron.”*
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Insights
+
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSaroop-AI&theme=tokyonight" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=KartikSaroop-AI&show_icons=true&theme=tokyonight" height="150">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSaroop-AI&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KartikSaroop-AI&theme=tokyonight" height="150">
 </p>
 
 ---
